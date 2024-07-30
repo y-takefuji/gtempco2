@@ -4,7 +4,7 @@ gtempco2 is a PyPI application to display global temperature and co2 of land and
 
 NOAA monthly datasets on the global temperature of land and ocean and the global co2 will be automatically downloaded. 
 
-gtempco2 is to plot a graph for a user-specified time period with two lines representing global temperature and global CO2 levels. The graph includes first-order regression lines with coefficients, p-value and R-squared values.
+gtempco2 is a PyPI tool to plot a graph for a user-specified time period with two lines representing global temperature and global CO2 levels. The graph includes first-order regression lines with coefficients, p-value and R-squared values.
 
 To install gtempco2, use the following pip command.
 
