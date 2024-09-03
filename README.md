@@ -1,4 +1,5 @@
 # gtempco2
+Takefuji, Y. Interpreting P-Values in Environmental Assessment: A Comparative Analysis of Global Temperature Anomaly and Atmospheric CO2 Datasets Hygiene and Environmental Health Advances (2024)
 
 gtempco2 is a PyPI application to display global temperature and co2 of land and ocean with NOAA datasets.
 
